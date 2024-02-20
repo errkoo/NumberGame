@@ -37,7 +37,7 @@ namespace NumberGame
         {
             Game objUI = new Game();
             objUI.ShowDialog();
-            this.Close();
+            
         }
 
         public static int getMode()
